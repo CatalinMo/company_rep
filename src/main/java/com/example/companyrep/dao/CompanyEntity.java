@@ -1,5 +1,6 @@
 package com.example.companyrep.dao;
 
+import com.example.companyrep.service.Company;
 import com.sun.istack.NotNull;
 import lombok.Data;
 
